@@ -1,0 +1,128 @@
+Script started on 2023-09-30 15:13:53-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;cwalczak@ChrisXPS: /mnt/c/Users/chris/WPI/Project3/life stuff[01;32mcwalczak@ChrisXPS[00m:[01;34m/mnt/c/Users/chris/WPI/Project3/life stuff[00m$ make
+[?2004lmake: Warning: File 'makefile' has modification time 96587 s in the future
+make: 'life' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+[?2004h]0;cwalczak@ChrisXPS: /mnt/c/Users/chris/WPI/Project3/life stuff[01;32mcwalczak@ChrisXPS[00m:[01;34m/mnt/c/Users/chris/WPI/Project3/life stuff[00m$ make run
+[?2004lmake: Warning: File 'makefile' has modification time 96583 s in the future
+./life 3 m.txt 10 y
+Generation [0]
+0 1 0 0 
+0 0 1 0 
+1 0 0 1 
+
+Generation [1]
+0 0 0 0 
+0 1 1 0 
+0 0 0 0 
+
+Game ended, all died
+make: warning:  Clock skew detected.  Your build may be incomplete.
+[?2004h]0;cwalczak@ChrisXPS: /mnt/c/Users/chris/WPI/Project3/life stuff[01;32mcwalczak@ChrisXPS[00m:[01;34m/mnt/c/Users/chris/WPI/Project3/life stuff[00m$ make run2
+[?2004lmake: Warning: File 'makefile' has modification time 96580 s in the future
+./life 3 m2.txt 10 y
+Generation [0]
+0 1 0 0 1 0 0 0 0 0 
+0 0 1 0 1 0 1 1 1 1 
+1 0 0 1 0 1 0 0 1 1 
+1 0 1 0 0 1 0 0 0 0 
+0 0 0 1 0 1 1 0 1 0 
+0 1 0 1 0 0 1 1 0 0 
+
+Generation [1]
+0 0 0 0 0 0 0 0 0 0 
+0 1 1 0 1 0 1 1 0 1 
+0 0 1 1 0 1 0 0 0 1 
+0 1 1 1 0 1 0 1 1 1 
+0 1 0 1 0 1 0 0 0 0 
+0 0 1 0 1 1 1 1 0 0 
+
+Generation [2]
+0 0 0 0 0 0 0 0 0 0 
+0 1 1 0 1 1 1 0 1 0 
+0 0 0 0 0 1 0 0 0 1 
+0 1 0 0 0 1 0 0 1 1 
+0 1 0 0 0 0 0 0 0 0 
+0 0 1 1 1 1 1 0 0 0 
+
+Generation [3]
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 1 0 0 0 
+0 1 1 0 0 0 0 1 0 1 
+0 0 0 0 0 0 0 0 1 1 
+0 1 0 1 0 0 1 0 0 0 
+0 0 1 1 1 1 0 0 0 0 
+
+Generation [4]
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 1 0 0 0 
+0 0 0 0 0 1 1 1 0 1 
+0 1 0 0 0 0 0 1 1 1 
+0 0 0 1 0 1 0 0 0 0 
+0 0 1 1 1 1 0 0 0 0 
+
+Generation [5]
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 1 0 0 
+0 0 0 0 0 1 0 0 0 1 
+0 0 0 0 1 1 0 1 0 1 
+0 0 0 1 0 1 1 0 1 0 
+0 0 1 1 0 1 0 0 0 0 
+
+Generation [6]
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 1 0 1 
+0 0 1 1 0 0 0 1 1 0 
+0 0 1 1 0 1 1 0 0 0 
+
+Generation [7]
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 1 0 0 
+0 0 1 1 1 0 0 1 1 0 
+0 0 1 1 1 0 1 1 0 0 
+
+Generation [8]
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 0 0 
+0 0 0 1 0 1 1 0 1 0 
+0 0 1 0 1 0 0 0 1 0 
+0 0 1 0 1 1 1 1 1 0 
+
+Generation [9]
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 1 1 0 0 
+0 0 0 1 1 1 1 0 1 0 
+0 0 1 0 0 0 0 0 1 1 
+0 0 0 0 1 1 1 1 1 0 
+
+Generation [10]
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 0 0 
+0 0 0 1 1 0 0 0 1 1 
+0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 1 1 1 1 1 
+
+Reached max generations
+make: warning:  Clock skew detected.  Your build may be incomplete.
+[?2004h]0;cwalczak@ChrisXPS: /mnt/c/Users/chris/WPI/Project3/life stuff[01;32mcwalczak@ChrisXPS[00m:[01;34m/mnt/c/Users/chris/WPI/Project3/life stuff[00m$ make run3
+[?2004lmake: Warning: File 'makefile' has modification time 96578 s in the future
+./life 3 m3.txt 10 y
+Generation [0]
+0 0 0 0 0 0 
+0 0 1 1 0 0 
+0 0 1 1 0 0 
+0 0 0 0 0 0 
+
+Game ended, pattern unchanged
+make: warning:  Clock skew detected.  Your build may be incomplete.
+[?2004h]0;cwalczak@ChrisXPS: /mnt/c/Users/chris/WPI/Project3/life stuff[01;32mcwalczak@ChrisXPS[00m:[01;34m/mnt/c/Users/chris/WPI/Project3/life stuff[00m$ s[Ks[K[?2004l
+exit
+
+Script done on 2023-09-30 15:14:08-04:00 [COMMAND_EXIT_CODE="0"]
